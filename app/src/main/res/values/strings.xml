@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bai1</string>
+    <string name="sochan">Số chẵn</string>
+    <string name="sole">Số lẻ</string>
+    <string name="sochinhphuong">Số chính phương</string>
+    <string name="enter_amount">Nhập số</string>
+</resources>
